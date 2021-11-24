@@ -12,3 +12,19 @@ This project uses MEAN Stack Development.
 
 ### Initial page
 ![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/initial_page.png)
+### Customer Register
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/customer_register.png)
+### Customer Login 
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/customer_login.png)
+### Login API Design 
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/login_api.png)
+### Sign up API design
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/signup_api.png)
+### Customer Edit Profile
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/customer_edit_profile.png)
+### Customer Add Booking
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/add_booking.png)
+### Customer view Booking Page
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/customer_view_booking_page.png)
+### Admin View All Booking Request 
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/admin_view_booking_request.png)
