@@ -6,9 +6,9 @@ The project is conducted by a group of students enrolled in SWEN90016 at the Uni
 This project uses MEAN Stack Development. 
 
 ## System Architecture Design
-![]https://github.com/Catherine959/appointmentManagementSystem/blob/main/system_design.png
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/system_design.png)
 
 ## Web page Overview
 
 ### Initial page
-![]https://github.com/Catherine959/appointmentManagementSystem/blob/main/initial_page.png
+![](https://github.com/Catherine959/appointmentManagementSystem/blob/main/initial_page.png)
